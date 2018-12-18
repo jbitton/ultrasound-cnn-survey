@@ -1,0 +1,7 @@
+raw/
+env/
+__pycache__
+
+*.npy
+*.h5
+*.out
